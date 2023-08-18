@@ -1,0 +1,12 @@
+2023/08/17-13:18:42.492 69e Reusing MANIFEST /home/austin/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_my.americanhondafinance.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/08/17-13:18:42.492 69e Recovering log #7
+2023/08/17-13:18:42.492 69e Reusing old log /home/austin/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_my.americanhondafinance.com_0.indexeddb.leveldb/000007.log 
+2023/08/17-13:20:42.222 69f Level-0 table #12: started
+2023/08/17-13:20:42.238 69f Level-0 table #12: 2618704 bytes OK
+2023/08/17-13:20:42.243 69f Delete type=0 #7
+2023/08/17-13:24:54.475 6a1 Compacting 1@1 + 1@2 files
+2023/08/17-13:24:54.516 6a1 Generated table #13@1: 1075 keys, 882598 bytes
+2023/08/17-13:24:54.516 6a1 Compacted 1@1 + 1@2 files => 882598 bytes
+2023/08/17-13:24:54.520 6a1 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/08/17-13:24:54.520 6a1 Delete type=2 #12
+2023/08/17-13:24:54.520 6a1 Delete type=2 #9

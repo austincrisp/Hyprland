@@ -1,0 +1,11 @@
+2023-08-16 16:15:58.458 [info] Telemetry level is off
+2023-08-16 16:15:58.458 [info] Experiments are disabled, only manually opted experiments are active.
+2023-08-16 16:15:58.458 [info] Test server listening.
+2023-08-16 16:15:58.458 [info] Python interpreter path: /bin/python
+2023-08-16 16:15:58.474 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-08-16 16:15:58.503 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-08-16 16:15:58.503 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-08-16 16:15:58.503 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-08-16 16:15:58.503 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-08-16 16:15:58.503 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-08-16 16:15:59.036 [info] Starting Jedi language server for Downloads.

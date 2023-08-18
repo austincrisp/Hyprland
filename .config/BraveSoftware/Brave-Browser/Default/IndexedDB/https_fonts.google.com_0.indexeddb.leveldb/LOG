@@ -1,0 +1,15 @@
+2023/08/16-11:31:32.506 799 Reusing MANIFEST /home/austin/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_fonts.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/08/16-11:31:32.506 799 Recovering log #4
+2023/08/16-11:31:32.506 799 Reusing old log /home/austin/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_fonts.google.com_0.indexeddb.leveldb/000004.log 
+2023/08/16-11:31:34.641 79a Level-0 table #8: started
+2023/08/16-11:31:34.646 79a Level-0 table #8: 7001 bytes OK
+2023/08/16-11:31:34.651 79a Delete type=0 #4
+2023/08/16-11:31:34.651 79a Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/08/16-11:31:34.651 79a Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01 \x03\x00\x90a\x93\xef\x9fxB\x00\x01V\x00f\x00o\x00n\x00t\x00-\x00d\x00a\x00t\x00a\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00f\x00o\x00n\x00t\x00s\x00.\x00g\x00s\x00t\x00a\x00t\x00i\x00c\x00.\x00c\x00o\x00m\x00/\x00s\x00/\x00g\x00o\x00o\x00g\x00l\x00e\x00s\x00a\x00n\x00s\x00/\x00v\x002\x009\x00/\x004\x00U\x00a\x00G\x00r\x00E\x00N\x00H\x00s\x00x\x00J\x00l\x00G\x00D\x00u\x00G\x00o\x001\x00O\x00I\x00l\x00L\x003\x00O\x00w\x00p\x004\x00.\x00w\x00o\x00f\x00f\x002' @ 299 : 1
+2023/08/16-11:31:34.651 79a Compacting 1@1 + 1@2 files
+2023/08/16-11:31:34.659 79a Generated table #9@1: 52 keys, 3780 bytes
+2023/08/16-11:31:34.659 79a Compacted 1@1 + 1@2 files => 3780 bytes
+2023/08/16-11:31:34.663 79a compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/08/16-11:31:34.664 79a Delete type=2 #5
+2023/08/16-11:31:34.664 79a Delete type=2 #8
+2023/08/16-11:31:34.664 79a Manual compaction at level-1 from '\x00\x01\x01 \x03\x00\x90a\x93\xef\x9fxB\x00\x01V\x00f\x00o\x00n\x00t\x00-\x00d\x00a\x00t\x00a\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00f\x00o\x00n\x00t\x00s\x00.\x00g\x00s\x00t\x00a\x00t\x00i\x00c\x00.\x00c\x00o\x00m\x00/\x00s\x00/\x00g\x00o\x00o\x00g\x00l\x00e\x00s\x00a\x00n\x00s\x00/\x00v\x002\x009\x00/\x004\x00U\x00a\x00G\x00r\x00E\x00N\x00H\x00s\x00x\x00J\x00l\x00G\x00D\x00u\x00G\x00o\x001\x00O\x00I\x00l\x00L\x003\x00O\x00w\x00p\x004\x00.\x00w\x00o\x00f\x00f\x002' @ 299 : 1 .. (end); will stop at (end)

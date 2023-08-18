@@ -1,0 +1,11 @@
+{
+    "extensions.autoUpdate": "onlyEnabledExtensions",
+    "update.showReleaseNotes": false,
+    "workbench.enableExperiments": false,
+    "workbench.startupEditor": "none",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Tokyo Night",
+    "editor.fontFamily": "'Iosevka Nerd Font Mono', 'monospace', monospace",
+    "editor.fontSize": 16,
+    "editor.fontLigatures": true
+}

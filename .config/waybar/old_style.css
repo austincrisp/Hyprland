@@ -1,0 +1,163 @@
+/* Color Definition 
+$Rosewater: #f4dbd6;
+$Flamingo: #f0c6c6;
+$Pink: #f5bde6;
+$Mauve: #c6a0f6;
+$Red: #ed8796;
+$Maroon: #ee99a0;
+$Peach: #f5a97f;
+$Yellow: #eed49f;
+$Green: #a6da95;
+$Teal: #8bd5ca;
+$Sky: #91d7e3;
+$Sapphire: #7dc4e4;
+$Blue: #8aadf4;
+$Lavender: #b7bdf8;
+$Text: #cad3f5;
+$Subtext1: #b8c0e0;
+$Subtext0: #a5adcb;
+$Overlay2: #939ab7;
+$Overlay1: #8087a2;
+$Overlay0: #6e738d;
+$Surface2: #5b6078;
+$Surface1: #494d64;
+$Surface0: #363a4f;
+$Base: #24273a;
+$Mantle: #1e2030;
+$Crust: #181926; */
+
+
+/* Global */
+* {
+  font-family: "Iosevka Nerd Font Mono";
+  font-size: .9rem;
+  border-radius: 1rem;
+  transition-property: background-color;
+  transition-duration: 0.5s;
+  background-color: shade(@base, 0.9);
+  color: #24273a;
+}
+
+@keyframes blink_red {
+  to {
+    background-color: #ed8796;
+    color: #24273a;
+  }
+}
+
+.warning, .critical, .urgent {
+  animation-name: blink_red;
+  animation-duration: 1s;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+}
+
+#mode, #clock, #memory, #temperature, #cpu, #custom-weather,
+#mpd, #idle_inhibitor, #backlight, #wireplumber, #network, 
+#custom-powermenu, #custom-cava-internal, #custom-launcher,
+#tray, #disk, #custom-pacman {
+  padding-left: .6rem;
+  padding-right: .6rem;
+}
+
+/* Bar */
+window#waybar {
+  background-color: rgba(0, 0, 0, 0);
+}
+
+window > box {
+  background-color: transparent;
+  margin: .3rem;
+  margin-bottom: 0;
+}
+
+
+/* Workspaces */
+#workspaces:hover {
+  background-color: #f4dbd6;
+  border: none;
+}
+
+#workspaces button {
+  padding-right: .4rem;
+  padding-left: .4rem;
+  padding-top: .1rem;
+  padding-bottom: .1rem;
+  color: #cad3f5;
+  border: .2px solid transparent;
+  background: transparent;
+}
+
+#workspaces button.focused {
+  color: #ed8796;
+}
+
+#workspaces button:hover {
+  border: .2px solid transparent;
+  color: #f4dbd6;
+}
+
+/* Tooltip */
+tooltip {
+  background-color: #24273a;
+}
+
+tooltip label {
+  color: #f4dbd6;
+}
+
+/* mpd */
+#mpd.paused {
+  color: #f5bde6;
+  font-style: italic;
+}
+#mpd.stopped {
+  color: #f4dbd6;
+  /* background: transparent; */
+}
+#mpd {
+  color: #b7bdf8;
+}
+
+/* Extra */
+#custom-cava-internal{
+  color: #f5a97f;
+  padding-right: 1rem;
+}
+#custom-launcher {
+  color: #eed49f;
+}
+#memory {
+  color: #f5a97f;
+}
+#cpu {
+  color: #8aadf4;
+}
+#clock {
+  color: #f4dbd6;
+}
+#idle_inhibitor {
+  color: #a6da95;
+}
+#temperature {
+  color: #7dc4e4;
+}
+#backlight {
+  color: #a6da95;
+}
+#wireplumber {
+  color: #c6a0f6;  /* not active */
+}
+#network {
+  color: #f5bde6; /* not active */
+}
+#disk {
+  color: #ee99a0;
+}
+#custom-pacman{
+  color: #91d7e3;
+}
+#custom-weather {
+  color: #ed8796;
+}

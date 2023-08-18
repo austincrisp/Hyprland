@@ -1,0 +1,32 @@
+2023-08-15 12:36:04.332 [info] Telemetry level is off
+2023-08-15 12:36:04.332 [info] Experiments are disabled, only manually opted experiments are active.
+2023-08-15 12:36:04.332 [info] Test server listening.
+2023-08-15 12:36:04.332 [info] > conda info --json
+2023-08-15 12:36:04.332 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-08-15 12:36:04.333 [info] Found: /bin/python --> /bin/python3.11
+2023-08-15 12:36:04.333 [info] Found: /bin/python3 --> /bin/python3.11
+2023-08-15 12:36:04.333 [info] Found: /bin/python3.11 --> /bin/python3.11
+2023-08-15 12:36:04.388 [info] Found: /sbin/python --> /sbin/python3.11
+2023-08-15 12:36:04.388 [info] Found: /sbin/python3 --> /sbin/python3.11
+2023-08-15 12:36:04.388 [info] Found: /sbin/python3.11 --> /sbin/python3.11
+2023-08-15 12:36:04.395 [info] Found: /usr/bin/python --> /usr/bin/python3.11
+2023-08-15 12:36:04.395 [info] Found: /usr/bin/python3 --> /usr/bin/python3.11
+2023-08-15 12:36:04.396 [info] Found: /usr/bin/python3.11 --> /usr/bin/python3.11
+2023-08-15 12:36:04.415 [info] Found: /usr/sbin/python --> /usr/sbin/python3.11
+2023-08-15 12:36:04.415 [info] Found: /usr/sbin/python3 --> /usr/sbin/python3.11
+2023-08-15 12:36:04.415 [info] Found: /usr/sbin/python3.11 --> /usr/sbin/python3.11
+2023-08-15 12:36:04.425 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-08-15 12:36:04.425 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-08-15 12:36:04.425 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-08-15 12:36:04.425 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-08-15 12:36:04.425 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-08-15 12:36:04.425 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-08-15 12:36:04.425 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-08-15 12:36:04.425 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-08-15 12:36:04.442 [info] > /bin/python -I ~/.vscode-oss/extensions/ms-python.python-2023.12.0-universal/pythonFiles/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2023.12.0-universal/pythonFiles/interpreterInfo.py
+2023-08-15 12:36:04.459 [info] > /sbin/python -I ~/.vscode-oss/extensions/ms-python.python-2023.12.0-universal/pythonFiles/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2023.12.0-universal/pythonFiles/interpreterInfo.py
+2023-08-15 12:36:04.490 [info] > /usr/bin/python -I ~/.vscode-oss/extensions/ms-python.python-2023.12.0-universal/pythonFiles/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2023.12.0-universal/pythonFiles/interpreterInfo.py
+2023-08-15 12:36:04.499 [info] > /usr/sbin/python -I ~/.vscode-oss/extensions/ms-python.python-2023.12.0-universal/pythonFiles/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2023.12.0-universal/pythonFiles/interpreterInfo.py
+2023-08-15 12:36:04.541 [info] Python interpreter path: /bin/python
+2023-08-15 12:36:04.570 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-08-15 12:36:05.316 [info] Starting Jedi language server for Downloads.

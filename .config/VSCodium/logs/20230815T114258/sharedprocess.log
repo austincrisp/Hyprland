@@ -1,0 +1,43 @@
+2023-08-15 12:30:25.142 [info] Getting Manifest... ms-python.python
+2023-08-15 12:30:25.416 [info] Installing extension: ms-python.python
+2023-08-15 12:30:28.030 [info] Extension signature verification is not done: ms-python.python
+2023-08-15 12:30:29.454 [info] Extracted extension to file:///home/austin/.vscode-oss/extensions/ms-python.python-2023.12.0-universal: ms-python.python
+2023-08-15 12:30:29.468 [info] Renamed to /home/austin/.vscode-oss/extensions/ms-python.python-2023.12.0-universal
+2023-08-15 12:30:29.473 [info] Extracting extension completed. ms-python.python
+2023-08-15 12:30:29.481 [info] Extension installed successfully: ms-python.python
+2023-08-15 12:30:33.965 [info] Getting Manifest... esbenp.prettier-vscode
+2023-08-15 12:30:34.460 [info] Installing extension: esbenp.prettier-vscode
+2023-08-15 12:30:35.241 [info] Extension signature verification is not done: esbenp.prettier-vscode
+2023-08-15 12:30:35.346 [info] Extracted extension to file:///home/austin/.vscode-oss/extensions/esbenp.prettier-vscode-10.1.0-universal: esbenp.prettier-vscode
+2023-08-15 12:30:35.351 [info] Renamed to /home/austin/.vscode-oss/extensions/esbenp.prettier-vscode-10.1.0-universal
+2023-08-15 12:30:35.354 [info] Extracting extension completed. esbenp.prettier-vscode
+2023-08-15 12:30:35.362 [info] Extension installed successfully: esbenp.prettier-vscode
+2023-08-15 12:32:10.935 [info] Getting Manifest... pkief.material-icon-theme
+2023-08-15 12:32:11.140 [info] Installing extension: pkief.material-icon-theme
+2023-08-15 12:32:12.523 [info] Extension signature verification is not done: pkief.material-icon-theme
+2023-08-15 12:32:12.891 [info] Extracted extension to file:///home/austin/.vscode-oss/extensions/pkief.material-icon-theme-4.28.0-universal: pkief.material-icon-theme
+2023-08-15 12:32:12.903 [info] Renamed to /home/austin/.vscode-oss/extensions/pkief.material-icon-theme-4.28.0-universal
+2023-08-15 12:32:12.905 [info] Extracting extension completed. pkief.material-icon-theme
+2023-08-15 12:32:12.912 [info] Extension installed successfully: pkief.material-icon-theme
+2023-08-15 12:33:40.081 [info] Getting Manifest... enkia.tokyo-night
+2023-08-15 12:33:40.285 [info] Installing extension: enkia.tokyo-night
+2023-08-15 12:33:43.445 [info] Extension signature verification is not done: enkia.tokyo-night
+2023-08-15 12:33:43.487 [info] Extracted extension to file:///home/austin/.vscode-oss/extensions/enkia.tokyo-night-1.0.1-universal: enkia.tokyo-night
+2023-08-15 12:33:43.492 [info] Renamed to /home/austin/.vscode-oss/extensions/enkia.tokyo-night-1.0.1-universal
+2023-08-15 12:33:43.493 [info] Extracting extension completed. enkia.tokyo-night
+2023-08-15 12:33:43.500 [info] Extension installed successfully: enkia.tokyo-night
+2023-08-15 12:34:21.325 [info] Getting Manifest... vscodevim.vim
+2023-08-15 12:34:21.532 [info] Installing extension: vscodevim.vim
+2023-08-15 12:34:24.462 [info] Extension signature verification is not done: vscodevim.vim
+2023-08-15 12:34:24.530 [info] Extracted extension to file:///home/austin/.vscode-oss/extensions/vscodevim.vim-1.25.2-universal: vscodevim.vim
+2023-08-15 12:34:24.535 [info] Renamed to /home/austin/.vscode-oss/extensions/vscodevim.vim-1.25.2-universal
+2023-08-15 12:34:24.536 [info] Extracting extension completed. vscodevim.vim
+2023-08-15 12:34:24.544 [info] Extension installed successfully: vscodevim.vim
+2023-08-15 12:35:30.849 [info] Getting Manifest... ms-python.pylint
+2023-08-15 12:35:30.931 [info] Installing extension: ms-python.pylint
+2023-08-15 12:35:31.131 [info] Getting Manifest... ms-python.python
+2023-08-15 12:35:34.354 [info] Extension signature verification is not done: ms-python.pylint
+2023-08-15 12:35:34.717 [info] Extracted extension to file:///home/austin/.vscode-oss/extensions/ms-python.pylint-2023.6.0-universal: ms-python.pylint
+2023-08-15 12:35:34.729 [info] Renamed to /home/austin/.vscode-oss/extensions/ms-python.pylint-2023.6.0-universal
+2023-08-15 12:35:34.730 [info] Extracting extension completed. ms-python.pylint
+2023-08-15 12:35:34.737 [info] Extension installed successfully: ms-python.pylint

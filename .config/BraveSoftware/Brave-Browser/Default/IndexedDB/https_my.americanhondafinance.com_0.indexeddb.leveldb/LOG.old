@@ -1,0 +1,15 @@
+2023/08/17-13:18:23.611 69e Reusing MANIFEST /home/austin/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_my.americanhondafinance.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/08/17-13:18:23.611 69e Recovering log #4
+2023/08/17-13:18:23.616 69e Reusing old log /home/austin/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_my.americanhondafinance.com_0.indexeddb.leveldb/000004.log 
+2023/08/17-13:18:29.899 69f Level-0 table #8: started
+2023/08/17-13:18:29.912 69f Level-0 table #8: 2958154 bytes OK
+2023/08/17-13:18:29.916 69f Delete type=0 #4
+2023/08/17-13:18:29.917 69f Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/08/17-13:18:29.917 69f Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x07\x01\x1f\x03\x00`\x0d\xa0\x05\xdbxB\x00\x01\x0d\x00c\x00r\x00y\x00p\x00t\x00o\x00a\x00d\x00a\x00p\x00t\x00e\x00r' @ 5200 : 1
+2023/08/17-13:18:29.917 69f Compacting 1@1 + 1@2 files
+2023/08/17-13:18:29.931 69f Generated table #9@1: 878 keys, 793152 bytes
+2023/08/17-13:18:29.931 69f Compacted 1@1 + 1@2 files => 793152 bytes
+2023/08/17-13:18:29.935 69f compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/08/17-13:18:29.935 69f Delete type=2 #5
+2023/08/17-13:18:29.935 69f Delete type=2 #8
+2023/08/17-13:18:29.936 69f Manual compaction at level-1 from '\x00\x07\x01\x1f\x03\x00`\x0d\xa0\x05\xdbxB\x00\x01\x0d\x00c\x00r\x00y\x00p\x00t\x00o\x00a\x00d\x00a\x00p\x00t\x00e\x00r' @ 5200 : 1 .. (end); will stop at (end)

@@ -1,0 +1,6 @@
+{
+    "extensions.autoUpdate": false,
+    "update.showReleaseNotes": false,
+    "workbench.enableExperiments": false,
+    "workbench.startupEditor": "none"
+}

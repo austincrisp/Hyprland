@@ -1,0 +1,20 @@
+2023/08/17-22:32:07.393 b66 Reusing MANIFEST /home/austin/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2023/08/17-22:32:07.394 b66 Recovering log #83
+2023/08/17-22:32:07.395 b66 Reusing old log /home/austin/.config/discord/Local Storage/leveldb/000083.log 
+2023/08/17-23:07:13.032 14c9 Level-0 table #87: started
+2023/08/17-23:07:13.043 14c9 Level-0 table #87: 15104 bytes OK
+2023/08/17-23:07:13.048 14c9 Delete type=0 #83
+2023/08/17-23:54:13.033 14c9 Level-0 table #89: started
+2023/08/17-23:54:13.043 14c9 Level-0 table #89: 15265 bytes OK
+2023/08/17-23:54:13.047 14c9 Delete type=0 #86
+2023/08/17-23:54:13.048 14c9 Compacting 4@0 + 2@1 files
+2023/08/17-23:54:13.079 14c9 Generated table #90@0: 89 keys, 3679216 bytes
+2023/08/17-23:54:13.087 14c9 Generated table #91@0: 14 keys, 6908 bytes
+2023/08/17-23:54:13.087 14c9 Compacted 4@0 + 2@1 files => 3686124 bytes
+2023/08/17-23:54:13.094 14c9 compacted to: files[ 0 2 1 0 0 0 0 ]
+2023/08/17-23:54:13.094 14c9 Delete type=2 #80
+2023/08/17-23:54:13.094 14c9 Delete type=2 #87
+2023/08/17-23:54:13.094 14c9 Delete type=2 #21
+2023/08/17-23:54:13.094 14c9 Delete type=2 #82
+2023/08/17-23:54:13.094 14c9 Delete type=2 #84
+2023/08/17-23:54:13.094 14c9 Delete type=2 #89

@@ -1,0 +1,33 @@
+2023/08/17-17:54:04.233 3 Reusing MANIFEST /home/austin/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2023/08/17-17:54:04.234 3 Recovering log #434
+2023/08/17-17:54:04.235 3 Reusing old log /home/austin/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000434.log 
+2023/08/17-17:54:19.143 5 Level-0 table #439: started
+2023/08/17-17:54:19.147 5 Level-0 table #439: 19482 bytes OK
+2023/08/17-17:54:19.154 5 Delete type=0 #434
+2023/08/17-17:54:19.549 5 Level-0 table #441: started
+2023/08/17-17:54:19.556 5 Level-0 table #441: 199273 bytes OK
+2023/08/17-17:54:19.560 5 Delete type=0 #438
+2023/08/17-17:56:19.302 5 Level-0 table #443: started
+2023/08/17-17:56:19.329 5 Level-0 table #443: 19744 bytes OK
+2023/08/17-17:56:19.336 5 Delete type=0 #440
+2023/08/17-18:08:19.574 3 Level-0 table #445: started
+2023/08/17-18:08:19.584 3 Level-0 table #445: 203317 bytes OK
+2023/08/17-18:08:19.589 3 Delete type=0 #442
+2023/08/17-18:08:19.589 3 Compacting 4@0 + 1@1 files
+2023/08/17-18:08:19.599 3 Generated table #446@0: 963 keys, 390790 bytes
+2023/08/17-18:08:19.599 3 Compacted 4@0 + 1@1 files => 390790 bytes
+2023/08/17-18:08:19.604 3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/08/17-18:08:19.605 3 Delete type=2 #445
+2023/08/17-18:08:19.605 3 Delete type=2 #441
+2023/08/17-18:08:19.605 3 Delete type=2 #439
+2023/08/17-18:08:19.605 3 Delete type=2 #436
+2023/08/17-18:08:19.605 3 Delete type=2 #443
+2023/08/17-18:14:26.086 3 Level-0 table #448: started
+2023/08/17-18:14:26.098 3 Level-0 table #448: 199345 bytes OK
+2023/08/17-18:14:26.105 3 Delete type=0 #444
+2023/08/17-21:12:34.966 5 Level-0 table #450: started
+2023/08/17-21:12:34.983 5 Level-0 table #450: 208864 bytes OK
+2023/08/17-21:12:34.991 5 Delete type=0 #447
+2023/08/17-21:27:03.446 5 Level-0 table #452: started
+2023/08/17-21:27:03.455 5 Level-0 table #452: 15525 bytes OK
+2023/08/17-21:27:03.460 5 Delete type=0 #449

@@ -1,0 +1,7 @@
+{
+    "extensions.autoUpdate": "onlyEnabledExtensions",
+    "update.showReleaseNotes": false,
+    "workbench.enableExperiments": false,
+    "workbench.startupEditor": "none",
+    "workbench.iconTheme": "material-icon-theme"
+}

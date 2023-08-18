@@ -1,0 +1,3 @@
+2023-08-17 14:09:51.578 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.vscode-pull-request-github' wants API proposal 'quickPickItemIcon' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-08-17 14:09:53.250 [error] ENOENT: no such file or directory, open '/home/austin/.config/VSCodium/User/globalStorage/vscodevim.vim/.registers': Error: ENOENT: no such file or directory, open '/home/austin/.config/VSCodium/User/globalStorage/vscodevim.vim/.registers'
+2023-08-17 14:09:55.048 [info] [perf] Render performance baseline is 55ms

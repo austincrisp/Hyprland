@@ -1,0 +1,6 @@
+2023/08/17-16:13:25.210 622 Creating DB /home/austin/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_weather.com_0.indexeddb.leveldb since it was missing.
+2023/08/17-16:13:25.221 622 Reusing MANIFEST /home/austin/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_weather.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/08/17-16:15:58.807 623 Level-0 table #5: started
+2023/08/17-16:15:58.812 623 Level-0 table #5: 1235 bytes OK
+2023/08/17-16:15:58.816 623 Delete type=0 #3
+2023/08/17-16:15:58.816 623 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

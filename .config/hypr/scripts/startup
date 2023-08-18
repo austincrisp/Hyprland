@@ -1,0 +1,32 @@
+#!/usr/bin/env bash
+
+# Kill already running process
+_ps=(mako xfce-polkit)
+for _prs in "${_ps[@]}"; do
+	if [[ $(pidof "${_prs}") ]]; then
+		killall -9 "${_prs}"
+	fi
+done
+
+# Polkit agent
+/usr/lib/xfce-polkit/xfce-polkit &
+
+# Set wallpaper
+swaybg --output '*' --mode fill --image ~/.config/hypr/wallpapers/wall7.png &
+
+# Lauch notification daemon (mako)
+~/.config/hypr/scripts/notifications &
+
+# Launch statusbar (waybar)
+waybar &
+
+# Set cpu governor to performance
+#cpupower frequency-set -g performance &
+
+# launch fcitx5
+fcitx5 -d &
+
+exec-once = wl-gammarelay-rs
+exec-once = wl-clip-persist
+exec-once = /usr/lib/kdeconnectd 
+exec-once = swayidle -w         \ 

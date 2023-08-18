@@ -1,0 +1,21 @@
+2023/08/17-17:54:19.317 6a3 Reusing MANIFEST /home/austin/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/08/17-17:54:19.317 6a3 Recovering log #222
+2023/08/17-17:54:19.327 6a3 Reusing old log /home/austin/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000222.log 
+2023/08/17-17:54:36.089 6a3 Level-0 table #227: started
+2023/08/17-17:54:36.101 6a3 Level-0 table #227: 1329777 bytes OK
+2023/08/17-17:54:36.109 6a3 Delete type=0 #222
+2023/08/17-17:57:03.134 6a3 Compacting 1@1 + 1@2 files
+2023/08/17-17:57:03.150 6a3 Generated table #228@1: 900 keys, 121100 bytes
+2023/08/17-17:57:03.150 6a3 Compacted 1@1 + 1@2 files => 121100 bytes
+2023/08/17-17:57:03.158 6a3 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/08/17-17:57:03.159 6a3 Delete type=2 #224
+2023/08/17-17:57:03.159 6a3 Delete type=2 #227
+2023/08/17-22:02:44.014 6a3 Level-0 table #230: started
+2023/08/17-22:02:44.027 6a3 Level-0 table #230: 1586216 bytes OK
+2023/08/17-22:02:44.032 6a3 Delete type=0 #226
+2023/08/17-22:06:12.173 6a2 Compacting 1@1 + 1@2 files
+2023/08/17-22:06:12.183 6a2 Generated table #231@1: 882 keys, 115465 bytes
+2023/08/17-22:06:12.183 6a2 Compacted 1@1 + 1@2 files => 115465 bytes
+2023/08/17-22:06:12.187 6a2 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/08/17-22:06:12.187 6a2 Delete type=2 #228
+2023/08/17-22:06:12.187 6a2 Delete type=2 #230

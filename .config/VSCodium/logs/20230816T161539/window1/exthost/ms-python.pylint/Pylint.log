@@ -1,0 +1,99 @@
+2023-08-16 16:15:58.511 [info] Name: Pylint
+2023-08-16 16:15:58.511 [info] Module: pylint
+2023-08-16 16:15:58.511 [info] Python extension loading
+2023-08-16 16:15:58.511 [info] Waiting for interpreter from python extension.
+2023-08-16 16:15:58.511 [info] Python extension loaded
+2023-08-16 16:15:58.511 [info] Server run command: /bin/python /home/austin/.vscode-oss/extensions/ms-python.pylint-2023.6.0-universal/bundled/tool/lsp_server.py
+2023-08-16 16:15:58.511 [info] Server: Start requested.
+2023-08-16 16:15:58.966 [info] CWD Server: /home/austin/Downloads
+2023-08-16 16:15:58.967 [info] Settings used to run Server:
+[
+    {
+        "cwd": "/home/austin/Downloads",
+        "workspace": "file:///home/austin/Downloads",
+        "args": [],
+        "severity": {
+            "convention": "Information",
+            "error": "Error",
+            "fatal": "Error",
+            "refactor": "Hint",
+            "warning": "Warning",
+            "info": "Information"
+        },
+        "path": [],
+        "interpreter": [
+            "/bin/python"
+        ],
+        "importStrategy": "useBundled",
+        "showNotifications": "off",
+        "extraPaths": []
+    }
+]
+
+2023-08-16 16:15:58.967 [info] Global settings:
+{
+    "cwd": "/home/austin",
+    "workspace": "/home/austin",
+    "args": [],
+    "severity": {
+        "convention": "Information",
+        "error": "Error",
+        "fatal": "Error",
+        "refactor": "Hint",
+        "warning": "Warning",
+        "info": "Information"
+    },
+    "path": [],
+    "interpreter": [],
+    "importStrategy": "useBundled",
+    "showNotifications": "off",
+    "extraPaths": []
+}
+
+2023-08-16 16:15:58.967 [info] sys.path used to run Server:
+   /home/austin/Downloads
+   /home/austin/.vscode-oss/extensions/ms-python.pylint-2023.6.0-universal/bundled/libs
+   /home/austin/.vscode-oss/extensions/ms-python.pylint-2023.6.0-universal/bundled/tool
+   /usr/lib/python311.zip
+   /usr/lib/python3.11
+   /usr/lib/python3.11/lib-dynload
+   /usr/lib/python3.11/site-packages
+2023-08-16 16:15:58.969 [info] /bin/python -m pylint --version
+2023-08-16 16:15:58.969 [info] CWD Linter: /home/austin/Downloads
+2023-08-16 16:15:59.247 [info] 
+pylint 2.17.4
+astroid 2.15.5
+Python 3.11.3 (main, Jun  5 2023, 09:32:32) [GCC 13.1.1 20230429]
+
+
+2023-08-16 16:15:59.247 [info] Version info for linter running for /home/austin/Downloads:
+pylint 2.17.4
+astroid 2.15.5
+Python 3.11.3 (main, Jun  5 2023, 09:32:32) [GCC 13.1.1 20230429]
+
+2023-08-16 16:15:59.247 [info] SUPPORTED pylint>=2.12.2
+FOUND pylint==2.17.4
+
+2023-08-16 16:15:59.253 [info] [Trace - 4:15:59 PM] Received notification 'window/logMessage'.
+2023-08-16 16:15:59.253 [info] /bin/python -m pylint --reports=n --output-format=json --clear-cache-post-run=y --from-stdin Untitled-1
+2023-08-16 16:15:59.254 [info] [Trace - 4:15:59 PM] Received notification 'window/logMessage'.
+2023-08-16 16:15:59.254 [info] CWD Linter: /home/austin/Downloads
+2023-08-16 16:15:59.394 [info] [Trace - 4:15:59 PM] Received notification 'window/logMessage'.
+2023-08-16 16:15:59.394 [info] untitled:Untitled-1 :
+[
+    {
+        "type": "convention",
+        "module": "Untitled-1",
+        "obj": "",
+        "line": 1,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "Untitled-1",
+        "symbol": "invalid-name",
+        "message": "Module name \"Untitled-1\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    }
+]
+
+2023-08-16 16:15:59.396 [info] [Trace - 4:15:59 PM] Received notification 'textDocument/publishDiagnostics'.
